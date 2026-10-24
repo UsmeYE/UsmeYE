@@ -43,7 +43,7 @@ Casos de estudio sobre sistemas construidos para operaciones y comercios reales.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UsmeYE&bg_color=0a0c10&color=e6edf3&line=5b9dff&point=5b9dff&area=true&hide_border=true" alt="Gráfico de actividad de Yamid Usme" width="100%" />
+  <img src="https://raw.githubusercontent.com/UsmeYE/UsmeYE/output-activity/activity-graph.svg" alt="Gráfico de actividad de Yamid Usme" width="100%" />
 </div>
 
 <div align="center">
